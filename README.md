@@ -33,4 +33,4 @@ modele deep-learning în format LiteRT (TFLite).
 - Samsung Galaxy A54
 
 ## Emoții detectate
-Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise
+Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise, Contempt
