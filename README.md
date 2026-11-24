@@ -37,10 +37,6 @@ Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise, Contempt
 
 Rezultate importante
 
-<img width="883" height="467" alt="Screenshot 2026-11-24 230917" src="https://github.com/user-attachments/assets/1292f2fe-0ca3-4c58-b8fa-f1b33d3a0db2" />
-
-<img width="922" height="431" alt="Screenshot 2026-11-24 230932" src="https://github.com/user-attachments/assets/d7519cd5-c3c1-4974-bb7d-af90191ed42d" />
-
 <img width="911" height="473" alt="Screenshot 2026-11-24 230948" src="https://github.com/user-attachments/assets/bf8cbe7d-3854-4891-8b6e-002f9c089880" />
 
 <img width="912" height="514" alt="Screenshot 2026-11-24 231037" src="https://github.com/user-attachments/assets/a35b9a82-6aac-4b95-b07d-98a763154af4" />
